@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danojawijesena31&label=Profile%20views&color=0e75b6&style=flat" alt="danojawijesena31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danojawijesena31" alt="danojawijesena31" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/danoja_p" target="blank"><img src="https://img.shields.io/twitter/follow/danoja_p?logo=twitter&style=for-the-badge" alt="danoja_p" /></a> </p>
 
 - 🔭 I’m currently working on *Mojo*
